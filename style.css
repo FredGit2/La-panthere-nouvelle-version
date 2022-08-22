@@ -279,8 +279,7 @@ a:hover {
 
 .row.row-no-gutters > [class^="col-"],
 .row.row-no-gutters > [class*=" col-"] {
-    padding-right: 0;
-    padding-left: 0;
+   padding-top:20px;
 }
 
 #bloc-1-hero h1 {
@@ -476,7 +475,7 @@ button {
 }
 
 .icon-md {
-    font-size: 30px!important;
+    font-size: 40px!important;
 }
 
 .icon-lg {
